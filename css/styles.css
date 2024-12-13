@@ -745,10 +745,10 @@ img {
 .modal-check-span {
   width: 16px;
   height: 16px;
+  display: inline-flex;
   border-radius: 2px;
   border: 1px solid rgba(46, 47, 66, 0.4);
   margin-right: 8px;
-  display: inline-flex;
   justify-content: center;
   align-items: center;
   fill: transparent;
